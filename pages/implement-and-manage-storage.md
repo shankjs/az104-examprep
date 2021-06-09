@@ -23,4 +23,4 @@
     - [configure storage tiers](#configure-storage-tiers)
     - [configure blob lifecycle management](#configure-blob-lifecycle-management)
 
-<!-- /TOC --
+<!-- /TOC -->

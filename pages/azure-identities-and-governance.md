@@ -1,4 +1,4 @@
-# Manage Azure identities and governance
+# Manage Azure identities and governance (15-20%)
 
 <!-- TOC depthfrom:2 depthto:3 -->
 
