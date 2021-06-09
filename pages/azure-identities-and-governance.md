@@ -1,4 +1,4 @@
-# Manage Azure identities and governance (15-20%)
+# Manage Azure identities and governance
 
 <!-- TOC depthfrom:2 depthto:3 -->
 
@@ -11,7 +11,7 @@
     - [manage guest accounts](#manage-guest-accounts)
     - [configure Azure AD join](#configure-azure-ad-join)
     - [configure self-service password reset](#configure-self-service-password-reset)
-- [Manage role based access control](#manage-role-based-access-control)
+- [Manage role-based access control - (RBAC)](#manage-role-based-access-control---(rbac))
     - [create a custom rule](#create-a-custom-rule)
     - [provide access to Azure resources by assigning roles at different scopes](#provide-access-to-azure-resources-by-assigning-roles-at-different-scopes)
     - [interpret access assignments](#interpret-access-assignments)
@@ -26,7 +26,7 @@
 
 <!-- /TOC -->
 
-## Manage Azure Active Directory (Azure AD) objects 
+## Manage Azure Active Directory objects 
 
 ### Create users and groups 
 
@@ -44,7 +44,7 @@
 
 ### Configure self-service password reset
 
-## Managed Role-based Control (RBAC)
+## Manage Role-based Access Control - (RBAC)
 
 ### Create a custom rule
 

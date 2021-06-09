@@ -22,7 +22,7 @@ Most questions cover features that are General Availability (GA). The exam may c
         - [manage guest accounts](pages/azure-identitites-and-governance.md/#manage-guest-accounts)
         - [configure Azure AD join](pages/azure-identitites-and-governance.md/#configure-azure-ad-join)
         - [configure self-service password reset](pages/azure-identities-and-governance.md/#configure-self-service-password-reset)
-    - [Manage role-based access control](pages/azure-identities-and-governance.md/#manage-role-based-access-control)
+    - [Manage role-based access control](pages/azure-identities-and-governance.md/#manage-role-based-access-control---(rbac))
         - [create a custom rule](pages/azure-identities-and-governance.md//#create-a-custom-rule)
         - [provide access to Azure resources by assigning roles at different scopes](pages/azure-identities-and-governance.md//#provide-access-to-azure-resources-by-assigning-roles-at-different-scopes)
         - [interpret access assignments](pages/azure-identities-and-governance.md//#interpret-access-assignments)
