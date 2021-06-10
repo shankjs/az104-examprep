@@ -57,8 +57,13 @@
 ### Configure Azure policies
 
 ### Configure resource locks
+
 ### Apply and manage tags on resources
+
 ### Manage resource groups
+
 ### Manage subscriptions
+
 ### Manage costs
+
 ### Configure management groups
